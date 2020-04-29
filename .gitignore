@@ -1,3 +1,6 @@
+backend/*.pyc
+frontend/*.pyc
+.vscode
 backend/venv/*
 frontend/venv/*
 backend/run.sh
