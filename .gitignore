@@ -1,4 +1,4 @@
-backend/venv/
-frontend/venv/
-backend/run.sh
-frontend/run.sh
+/backend/venv/
+/frontend/venv/
+/backend/run.sh
+/frontend/run.sh
